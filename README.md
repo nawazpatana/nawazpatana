@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/138724322?v=4" width="120" style="border-radius: 50%">
 </p>
-<h2 align="center">Nawaz Patana</h2>
+<h2 align="center">Nawazish Hussain</h2>
 <p align="center">
   <b>Software Developer • Open Source Enthusiast</b>
   <br>
