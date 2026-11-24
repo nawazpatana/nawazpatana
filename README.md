@@ -1,6 +1,11 @@
 <!-- Profile Section -->
 <p align="center">
-  <img src="https://api.dicebear.com/9.x/avataaars/svg?seed=Nawazish&top=shortFlat&facialHair=beardLight&clothing=blazerAndShirt&backgroundColor=b6e3f4" width="140" alt="Male Developer Avatar"/>
+  <img 
+    src="https://api.dicebear.com/9.x/avataaars/svg?seed=Nawazish&top=shortFlat&mouth=smile&eyebrows=defaultNatural&eyes=happy&facialHairProbability=0&clothing=blazerAndShirt&backgroundColor=b6e3f4" 
+    width="140" 
+    alt="Young Happy Male Avatar"
+    style="border-radius: 50%; display: block; margin: auto;"
+  />
 </p>
 
 <h2 align="center">Nawazish Hussain</h2>
