@@ -5,7 +5,7 @@
     width="140"
     height="140"
     alt="Nawazish Hussain"
-    style="border-radius: 50%;"
+    style="border-radius: 100%;"
   />
 </p>
 
