@@ -1,12 +1,13 @@
 <!-- Profile Section -->
+<!-- Circular GitHub Profile Image -->
 <p align="center">
-  <img 
+  <img
     src="https://wsrv.nl/?url=github.com/nawazpatana.png&w=300&h=300&fit=cover&mask=circle&output=png"
-    width="150"
-    height="150"
+    width="160"
+    height="160"
     alt="Nawazish Hussain"
-   
   />
+</p>
 </p>
 
 <h2 align="center">Nawazish Hussain</h2>
