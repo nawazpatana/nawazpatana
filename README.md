@@ -1,11 +1,11 @@
 <!-- Profile Section -->
 <p align="center">
   <img 
-    src="https://github.com/nawazpatana.png"
+    src="https://wsrv.nl/?url=github.com/nawazpatana.png&w=300&h=300&fit=cover&mask=circle&output=png"
     width="150"
     height="150"
     alt="Nawazish Hussain"
-    style="border-radius: 40%;"
+   
   />
 </p>
 
