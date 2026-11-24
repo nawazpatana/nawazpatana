@@ -2,10 +2,10 @@
 <p align="center">
   <img 
     src="https://github.com/nawazpatana.png"
-    width="140"
-    height="140"
+    width="150"
+    height="150"
     alt="Nawazish Hussain"
-    style="border-radius: 100%;"
+    style="border-radius: 40%;"
   />
 </p>
 
